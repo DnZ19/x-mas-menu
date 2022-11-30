@@ -8,7 +8,7 @@ module.exports = {
 
       colors: {
         'xmas-red': '#942C37',
-        'xmas-darkred': '#3C1C1F',
+        'xmas-darkred': 'rgba(60,28,31,0.7)',
         'xmas-white': '#EFEFF1',
         'xmas-reddish': '#BB7571',
         'xmas-pink': '#BB9898',
