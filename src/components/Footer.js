@@ -6,6 +6,8 @@ function Footer () {
 
         <footer className="h-20">
 
+            <p className="font-thin font-xmas_jost text-sm w-auto text-center mt-12">Build & designed by Dennis Rijkers</p>
+
         </footer>
 
     );
